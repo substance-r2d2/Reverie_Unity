@@ -21,9 +21,12 @@ Reverie is a unique 2D platformer with gesture based gameplay. Draw shapes, defe
 Made this game as part of my college project. The inital prototype was developed as part of a Game Jam where the theme was 'Childhood'. But as I am currently employed I don't have time to continue development on this game.
 
 ### Tools used :
-* Unity 5.4.4 [https://unity3d.com/]
+* Unity 5.4.4
 * PDollar-Unity [https://github.com/DaVikingCode/PDollar-Unity]
 * iTween [http://www.pixelplacement.com/itween/]
+* Advanced CSharp Messenger [http://wiki.unity3d.com/index.php?title=Advanced_CSharp_Messenger]
 * Adobe Photoshop
 
 Art By Anmol Nikam [http://dempixels.crevado.com/]
+
+NOTE: THIS IS THE WEBGL VERSION OF THE GAME. REMEMBER TO SWITCH PLATFORM IN UNITY TO WEBGL
