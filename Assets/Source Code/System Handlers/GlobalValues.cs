@@ -1,0 +1,19 @@
+public enum PLAYERSTATE
+{
+    IDLE = 0,
+    MOVEMENT,
+    JUMP,
+    GESTURE_DRAW,
+    DEAD,
+    LOCK,
+}
+
+public enum PREFAB_TYPEID
+{
+    SQUARE_NORMAL,
+    SQUARE_JUMP,
+    TRIANGLE_NORMAL,
+    TRIANGLE_BLAST,
+    CIRCLE_LIGHT,
+
+}
